@@ -1,8 +1,9 @@
 right3
 left2
-right3
+right1
+left3
 right2
-right4
+left4
 6
 7
 8
