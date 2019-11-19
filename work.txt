@@ -1,10 +1,10 @@
-left1, right1
+1
 2
 3
 4
-left5, right5
+5
 6
 7
 8
-right9
-left10
+9
+10
